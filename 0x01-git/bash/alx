@@ -1,6 +1,5 @@
 #!/bin/bash
-echo "ALX"
-^c
+echo "ALX School"
 ^C
 clesr
 clear
