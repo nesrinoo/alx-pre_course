@@ -1,7 +1,4 @@
 #!/bin/bash
-echo "ALX School"
-^C
-clesr
-clear
->C
->c
+echo "ALX School is so cool!"
+!
+
